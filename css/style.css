@@ -10,6 +10,7 @@ header {
 .logo {
 	width: 80px;
 	height: 80px;
+	border: #ffffff;
 }
 
 nav ul {
@@ -51,6 +52,7 @@ section {
 	margin: 0;
 	border-bottom: solid #F0F0F0 1px;
 	background: #F0F0F0;
+	text-align: center;
 }
 
 .linksec {
@@ -74,7 +76,67 @@ img {
 	font-family: "Times New Roman";
 }
 
+a {
+	text-decoration: none;
+	text-align: center;
+	color: #004d99;
+	list-style-type: none;
+}
 
+p {
+	color: white;
+	font-family: Arial;
+	font-size: 15px;
+	text-align: center;
+}
 
+footer {
+	padding: 15px 0;
+	margin: 0;
+	color: #fff;
+	border-top: solid #666666 1px;
+	background: #666666;
+}
 
+li {
+ display: inline-block;
+ margin-right: 5px;
+}
 
+ul {
+	margin-left: 160px;
+}
+
+h6 {
+	text-align: center;
+	color: #999999;
+}
+
+.a-footer {
+	color: #a6a6a6;
+}
+
+.icono {
+	width: 23px;
+	height: 23px;
+	border-color: #ffffff;
+}
+
+.latest {
+	margin-right: 120px;
+}
+
+h2 {
+	text-align: left;
+}
+
+h4 {
+	text-align: center;
+	font-family: "Times New Roman";
+	font-size: 12px;
+}
+
+h3 {
+	color: #595959;
+	font-family: Arial;
+}
